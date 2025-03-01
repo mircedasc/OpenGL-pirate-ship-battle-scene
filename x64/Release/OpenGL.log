@@ -1,0 +1,13 @@
+﻿  main.cpp
+E:\a3\gp\OpenGL\OpenGL\main.cpp(140,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\a3\gp\OpenGL\OpenGL\main.cpp(141,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\a3\gp\OpenGL\OpenGL\main.cpp(145,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\a3\gp\OpenGL\OpenGL\main.cpp(146,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\a3\gp\OpenGL\OpenGL\main.cpp(147,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\a3\gp\OpenGL\OpenGL\main.cpp(148,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 1851 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGL.vcxproj -> E:\a3\gp\OpenGL\x64\Release\OpenGL.exe
